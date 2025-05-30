@@ -58,6 +58,6 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
 
-<img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=sky0403&theme=dark&rank_icon=github"/>
-<img alt="Top Language" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sky0403&hide_progress=true&theme=dark"/>
+<img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=sky0403&theme=holi&rank_icon=github&hide=prs,contribs&title_color=#87ceeb"/>
+<img alt="Top Language" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sky0403&hide_progress=true&theme=holi&title_color=#87ceeb&border_color=blue"/>
 
