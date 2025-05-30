@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sky</h1>
-- 🌱 I'm currently learning **Computer Science**
+- 🌱 Currently learning AWS through YouTube tutorials. Next up: Node.js! Passionate about cloud and backend development.
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+<p align="left">Email Address : skytam19970403@gmail.com</p>
 
 <h3 align="left">Languages and Tools:</h3>
 
