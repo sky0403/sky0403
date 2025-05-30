@@ -59,4 +59,4 @@
 </p>
 
 <img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=sky0403&theme=holi&rank_icon=github&hide=prs,contribs&title_color=#87ceeb"/>
-<img alt="Top Language" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sky0403&hide_progress=true&theme=holi&title_color=#87ceeb&border_color=blue&exclude_repo=stock_prediction"/>
+<img alt="Top Language" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sky0403&exclude_repo=stock_prediction&hide_progress=true&theme=holi&title_color=#87ceeb&border_color=blue"/>
