@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Sky</h1>
-- 🌱 Currently learning AWS through YouTube tutorials. Next up: Node.js! Passionate about cloud and backend development.
+- Currently learning AWS through YouTube tutorials. Next up: Node.js! Passionate about cloud and backend development.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">Email Address : skytam19970403@gmail.com</p>
@@ -59,5 +59,5 @@
 </p>
 
 <img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=sky0403"/>
-<img alt="Top Language" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sky0403"/>
+<img alt="Top Language" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sky0403&hide_progress=true"/>
 
