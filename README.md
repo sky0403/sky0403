@@ -1,8 +1,11 @@
-<h1 align="center">Hi 👋, I'm Sky</h1>
+<h1 align="center">Hi, I'm Sky</h1>
 - 🌱 Currently learning AWS through YouTube tutorials. Next up: Node.js! Passionate about cloud and backend development.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">Email Address : skytam19970403@gmail.com</p>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sky0403)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <h3 align="left">Languages and Tools:</h3>
 
