@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Sky</h1>
-- Currently learning AWS through YouTube tutorials. Next up: Node.js! Want to build something with AWS Lambda. Passionate about cloud and backend development.
+- Currently learning Node.js through YouTube tutorials. Next up: AWS! Passionate about cloud and backend development.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">Reach me: skytam19970403@gmail.com</p>
