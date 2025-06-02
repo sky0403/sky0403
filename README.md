@@ -2,7 +2,7 @@
 - Currently learning Node.js through YouTube tutorials. Next up: AWS! Passionate about cloud and backend development.
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">Reach me: skytam19970403@gmail.com</p>
+<p align="left">Email: skytam19970403@gmail.com</p>
 
 
 
