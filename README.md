@@ -1,5 +1,7 @@
 <h1 align="center">Hi, I'm Sky</h1>
-- Currently learning Node.js through YouTube tutorials. Next up: AWS! Passionate about cloud and backend development.
+### About Me
+- Fresh Graduate in Computer Science.
+- Passionate about Backend Architecture & Cloud Infrastructure.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">Email: skytam19970403@gmail.com</p>
@@ -55,8 +57,6 @@
 
 <h4 align="left">Version Control</h4>
 <p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=你的GitHub使用者名稱&show_icons=true&theme=tokyonight&count_private=true" alt="Sky's GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=你的GitHub使用者名稱&layout=compact&theme=tokyonight" alt="Top Languages" height="180"/>
 </p>
-
-<img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=sky0403&theme=holi&rank_icon=github&hide=prs,contribs&title_color=#87ceeb"/>
-<img alt="Top Language" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sky0403&exclude_repo=stock_prediction&hide_progress=true&theme=holi&title_color=#87ceeb&border_color=blue"/>
