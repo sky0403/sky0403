@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Sky</h1>
-### About Me
-- Fresh Graduate in Computer Science.
+<p><h3 align="left">About Me</h3></p>
+<p>- Fresh Graduate in Computer Science.</p>
 - Passionate about Backend Architecture & Cloud Infrastructure.
 
 <h3 align="left">Connect with me:</h3>
