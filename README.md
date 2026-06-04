@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Sky</h1>
 <p><h3 align="left">About Me</h3></p>
 <p>- Fresh Graduate in Computer Science.</p>
-- Passionate about Backend Architecture & Cloud Infrastructure.
+<p>- Passionate about Backend Architecture.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">Email: skytam19970403@gmail.com</p>
