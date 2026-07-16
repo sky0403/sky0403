@@ -1,6 +1,9 @@
 <h1 align="center">Hi, I'm Sky</h1>
 <p><h3 align="left">About Me</h3></p>
 <p>- Fresh Graduate in Computer Science.</p>
+
+<p>Analyst Programmer skilled in Java Spring Boot, Next.js, and Redis.</p> 
+<p>Experienced in developing full-stack applications with a focus on high-concurrency production systems, API integration, and performance optimization.</p>
 <p>- Passionate about Backend Architecture.</p>
 
 <h3 align="left">Connect with me:</h3>
